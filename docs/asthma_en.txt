@@ -1,0 +1,5 @@
+Asthma severity guides controller therapy. Mild persistent asthma is
+treated with low-dose inhaled corticosteroids. Moderate asthma adds a
+long-acting beta agonist. Severe asthma may require biologics targeting
+IgE or interleukin pathways. Inhaler technique should be reviewed at
+every visit.

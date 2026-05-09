@@ -1,0 +1,5 @@
+Type 2 diabetes management focuses on lifestyle modification including diet,
+regular physical activity, and weight management. First-line pharmacological
+therapy is metformin. HbA1c should be measured every three to six months.
+Patients with cardiovascular risk may benefit from SGLT2 inhibitors or GLP-1
+receptor agonists.

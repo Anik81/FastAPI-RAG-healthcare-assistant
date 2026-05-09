@@ -1,4 +1,5 @@
 from langdetect import detect, DetectorFactory
+from transformers import MarianMTModel, MarianTokenizer
 DetectorFactory.seed = 0
 
 
@@ -15,7 +16,6 @@ translator_models = {}
 def load_translator(src, tgt):
     key = (src, tgt)
     if key not in translator_models:
-        from transformers import MarianMTModel, MarianTokenizer
         name = f"Helsinki-NLP/opus-mt-{src}-{tgt}"
         if src == "en" and tgt == "ja":
             name = "Helsinki-NLP/opus-mt-en-jap"
